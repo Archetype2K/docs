@@ -5,7 +5,7 @@ import tailwind from "@astrojs/tailwind";
 
 // https://astro.build/config
 export default defineConfig({
-  site: 'https://mrmihi.dev',
-  base: '/notes',
+  site: 'https://Archtype2K.github.io',
+  base: '/docs',
   integrations: [tailwind()]
 });
